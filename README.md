@@ -36,21 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Martyrsuper&show_icons=true&theme=radical" 
-    alt="Martyrsuper's GitHub stats" 
-    width="400"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Martyrsuper&theme=radical&hide_border=true" 
-    width="400"
-  />
-</p>
-
----
 
 #### Top Repositories
 
